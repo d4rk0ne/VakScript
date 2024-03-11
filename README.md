@@ -6,7 +6,7 @@ It should be used only for practice, since it creates an huge advantage over a n
 
 https://github.com/vakdev/VakScript/assets/93299015/d8412240-c2dc-45fd-a7aa-d93b6670bd67
 
-![spaceglider](https://github.com/vakdev/VakScript/assets/93299015/ee39794c-fcc0-4bc8-b705-00b56516337b)
+![gui](https://github.com/Shurtug/VakScript/assets/98952641/b5330410-d411-457e-9060-61b36d97f789)
 
 https://youtu.be/gYSJSiYLOpM
 
