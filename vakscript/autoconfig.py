@@ -169,8 +169,8 @@ def start_autoconfig():
             league_path = process.info['cwd']
 
     if league_path is not None and os.path.isdir(league_path):
-        settings_to_persist = os.path.join(league_path, Info.settings_to_persist_path)
-        persisted_settings = os.path.join(league_path, Info.persisted_settings_path)
+        settings_to_persist = os.path.join(league_path, Info.settings_to_persist)
+        persisted_settings = os.path.join(league_path, Info.persisted_settings)
         files_list = [settings_to_persist, persisted_settings]
 
         for file in files_list:
