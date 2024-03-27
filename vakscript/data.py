@@ -66,7 +66,6 @@ class Info:
     client_name_executable = 'LeagueClient.exe'
     game_name_executable = 'League of Legends.exe'
     game_name_window = 'League of Legends (TM) Client'
-    game_files_path = '\Riot Games\League of Legends'
     settings_to_persist = 'DATA\CFG\defaults\SettingsToPersist.json'
     persisted_settings = 'Config\PersistedSettings.json'
     url_allgamedata = 'https://127.0.0.1:2999/liveclientdata/allgamedata'
